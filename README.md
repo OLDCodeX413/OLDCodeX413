@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Haikal GitHub stats](https://github-readme-stats.vercel.app/api?username=oldcodex413&show_icons=true&theme=radical)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldcodex413&layout=compact&theme=radical)](https://github.com/kurniagilang/github-readme-stats)
